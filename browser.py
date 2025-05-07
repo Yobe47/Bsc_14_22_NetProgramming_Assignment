@@ -7,7 +7,7 @@ from PyQt5.QtPrintSupport import *
 import os
 import sys
 
-#Referenced  google for the ui
+#Referenced  google for the ui from geeks website
 
 # creating main window class
 class MainWindow(QMainWindow):
